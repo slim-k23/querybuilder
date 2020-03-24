@@ -1,0 +1,4 @@
+_HiStOrY_V2_
+use\040App_Produit
+use\040App\134Produit
+$produits=\040Produit::all();
