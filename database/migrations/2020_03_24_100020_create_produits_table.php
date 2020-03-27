@@ -18,7 +18,8 @@ class CreateProduitsTable extends Migration
             $table->string('title');
             $table->integer('price');
             $table->string('description');
-            $table->timestamps();
+/*            $table->string('description')->nullable();
+*/            $table->timestamps();
         });
     }
 
